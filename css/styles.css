@@ -214,3 +214,13 @@ body {
 .project-link:hover {
   background-color: red;
 }
+
+.projects-cell-title {
+  margin: 0;
+  background-color: rgb(40, 248, 179);
+  text-align: center;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size: 26px;
+  text-transform: uppercase;
+}
