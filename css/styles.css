@@ -224,3 +224,12 @@ body {
   font-size: 26px;
   text-transform: uppercase;
 }
+
+.page-footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #444444;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
