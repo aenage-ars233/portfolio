@@ -1,1 +1,24 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
 
+.skill-item-title {
+  color: brown;
+}
+
+.skill {
+  font-size: 20px;
+}
+
+.project-advantages {
+  list-style: none;
+}
+
+.courses-list {
+  padding: 0;
+}
+
+.course {
+  font-size: 18px;
+}
