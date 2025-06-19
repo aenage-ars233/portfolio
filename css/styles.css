@@ -15,6 +15,10 @@ img {
   list-style: none;
 }
 
+.courses-list-title {
+  color: brown;
+}
+
 .courses-list {
   padding: 0;
 }
